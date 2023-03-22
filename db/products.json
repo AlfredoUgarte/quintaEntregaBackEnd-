@@ -1,0 +1,34 @@
+[
+  {
+    "description": "descripcion 1",
+    "stock": 10,
+    "title": "Escuadra",
+    "price": 123.45,
+    "thumbnail": "pendiente",
+    "id": 1
+  },
+  {
+    "description": "descripcion 2",
+    "stock": 45,
+    "title": "Calculadora",
+    "price": 234.56,
+    "thumbnail": "pendiente",
+    "id": 2
+  },
+  {
+    "description": "descripcion 3",
+    "stock": 1000,
+    "title": "Globo Terráqueo",
+    "price": 345.67,
+    "thumbnail": "pendiente",
+    "id": 3
+  },
+  {
+    "description": "descripcion 4",
+    "stock": 32,
+    "title": "Boligrafo",
+    "price": 27.5,
+    "thumbnail": "pendiente",
+    "id": 4
+  }
+]
