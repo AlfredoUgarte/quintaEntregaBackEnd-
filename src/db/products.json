@@ -30,5 +30,13 @@
     "price": 27.5,
     "thumbnail": "pendiente",
     "id": 4
+  },
+  {
+    "description": "descripcion 5",
+    "stock": 14,
+    "title": "Lapiz",
+    "price": 10,
+    "thumbnail": "pendiente",
+    "id": 5
   }
 ]

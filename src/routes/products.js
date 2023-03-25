@@ -9,11 +9,11 @@ router.get('/', async (req, res) => {
     if (limit) {
         const products = await manager.getProducts();
         const limitedProducts = products.slice(0, limit);
-        res.send(limitedProducts);
+        res.render('home', {products: limitedProducts});
         return;
     }
     const products = await manager.getProducts();
-    res.send(products);
+    res.render('home', {products});
 });
 
 router.get('/:id', async (req, res) => {
